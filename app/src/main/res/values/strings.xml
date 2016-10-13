@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string-array name="options">
+
+        <item>Choose a goal</item>
+        <item>2 Hours/today</item>
+        <item>4 Hours/today</item>
+        <item>6 Hours/today</item>
+
+    </string-array>
+</resources>
