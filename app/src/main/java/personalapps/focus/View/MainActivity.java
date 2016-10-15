@@ -140,7 +140,6 @@ public class MainActivity extends AppCompatActivity {
                         play.setVisibility(View.VISIBLE);
                         pause.setVisibility(View.INVISIBLE);
                         restart.setVisibility(View.INVISIBLE);
-                        count.cancel();
                         if (flagTimer) {
                             count.cancel();
                         }
@@ -154,7 +153,6 @@ public class MainActivity extends AppCompatActivity {
                         play.setVisibility(View.VISIBLE);
                         pause.setVisibility(View.INVISIBLE);
                         restart.setVisibility(View.INVISIBLE);
-                        count.cancel();
                         if (flagTimer) {
                             count.cancel();
                         }
